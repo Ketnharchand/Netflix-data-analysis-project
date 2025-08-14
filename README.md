@@ -1,8 +1,5 @@
-# Netflix-data-analysis-project
-This project involved solving 15 SQL queries on Netflix data to analyze content trends, genre popularity, rating patterns, and country-wise distribution. By leveraging joins, filters, and aggregate functions, I uncovered key insights into viewer behavior and production strategies. It reflects my ability to apply SQL for real-world data analysis
-
 ## Overview
-This project involves a comprehensive analysis of Netflix's movies and TV shows data using SQL. The goal is to extract valuable insights and answer various business questions based on the dataset. The following README provides a detailed account of the project's objectives, business problems, solutions, findings, and conclusions.
+This project involved solving 15 SQL queries on Netflix data to analyze content trends, genre popularity, rating patterns, and country-wise distribution. By leveraging joins, filters, and aggregate functions, I uncovered key insights into viewer behavior and production strategies. It reflects my ability to apply SQL for real-world data analysis
 
 ## Objectives
 
